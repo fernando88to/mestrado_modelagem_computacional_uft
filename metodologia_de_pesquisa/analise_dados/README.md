@@ -1,2 +1,4 @@
-# Mestrado Modelagem Computacional de Sistemas
-Clica na aba de Wiki acessar a página web do aluno Fernando Henrique no Mestrado em Modelagem Computacional
+# Análise Dados
+
+
+Exercícios proposto pelo link http://mduft.wikidot.com
